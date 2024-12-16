@@ -255,8 +255,8 @@ echo "Проверка прошла успешно!"
 exit 0
 ```
 *Он проверяет по тексту всех .txt файлов, чтобы в них была строка "Автор", если её нет - не принимает.*
-![image](https://github.com/mxrget/linux-university-lab-4/blob/main/lab5-pic1.png)
-![image](https://github.com/mxrget/linux-university-lab-4/blob/main/lab5-pic2.png)
+![image](https://github.com/mxrget/linux-university-lab-5/blob/main/lab5-pic1.png)
+![image](https://github.com/mxrget/linux-university-lab-5/blob/main/lab5-pic2.png)
 Работает, задание выполнено.
 
 
@@ -361,8 +361,8 @@ git push origin main
 ### Решение
 
 Если честно, я не очень знаю, что мне прикладывать в своём отчёте, а если бы я вставлял вообще все скриншоты, то это было бы долго, потому что там была целая история ошибок и разбирательств с тем, как это работает - прикладываю уже последние шаги с хотфиксом и что всё отправлено на сервер - а значит, результат работы лучше можно посмотреть прямо в репозитории.
-![image](https://github.com/mxrget/linux-university-lab-4/blob/main/lab5-pic3.png)
-![image](https://github.com/mxrget/linux-university-lab-4/blob/main/lab5-pic4.png)
+![image](https://github.com/mxrget/linux-university-lab-5/blob/main/lab5-pic3.png)
+![image](https://github.com/mxrget/linux-university-lab-5/blob/main/lab5-pic4.png)
 
 ### Как успешно сдать работу?
 
